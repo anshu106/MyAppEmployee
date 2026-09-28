@@ -1,0 +1,5 @@
+/Users/anshunarayan/Documents/dotnet/MyApp/MyApp.Infrastructure/obj/Debug/net10.0/MyApp.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anshunarayan/Documents/dotnet/MyApp/MyApp.Infrastructure/obj/Debug/net10.0/MyApp.Infrastructure.AssemblyInfoInputs.cache
+/Users/anshunarayan/Documents/dotnet/MyApp/MyApp.Infrastructure/obj/Debug/net10.0/MyApp.Infrastructure.AssemblyInfo.cs
+/Users/anshunarayan/Documents/dotnet/MyApp/MyApp.Infrastructure/obj/Debug/net10.0/MyApp.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/anshunarayan/Documents/dotnet/MyApp/MyApp.Infrastructure/obj/Debug/net10.0/MyApp.Infrastructure.sourcelink.json
